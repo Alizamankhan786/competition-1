@@ -21,6 +21,12 @@
     gap: 3px;
     font-size: large;
 }
-.footer{
-    font-size: larger;
+
+#footer{
+    background-color: #502314;
+    padding: 10px;
+}
+#footer h4{
+    font-size: 15px;
+    color: white;
 }
